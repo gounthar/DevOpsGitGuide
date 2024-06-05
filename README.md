@@ -109,3 +109,4 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 30. Edouard PREIN : https://github.com/EdouardPrein/devops-efficom-Edouard
 31. Baptiste Fournel : https://github.com/Baptiste-Fournel/TPDevOps.git
 32. Alexis Applincourt : https://github.com/DocssiS/TP1DEVOPS
+33. Hugo Gaudre : https://github.com/hugo-gaudre/Projet-DevOps-HG.git
